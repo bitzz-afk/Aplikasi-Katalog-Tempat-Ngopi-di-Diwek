@@ -24,3 +24,10 @@ Dalam proyek *software development* mandiri ini, saya bertanggung jawab penuh pa
   ![Halaman Filter](./halaman-filter.png)
 - **Halaman Detail Informasi Kafe:**  
   ![Halaman Detail](./halaman-detail.jpeg)
+
+## 📲 Tautan Unduhan Langsung (Installer APK)
+Untuk menguji dan melihat langsung fungsionalitas aplikasi di perangkat Android Anda, silakan unduh file installer resmi melalui tombol pintasan di bawah ini:
+
+👉 **[📥 UNDUH APLIKASI (APK) SEKARANG](https://github.com)**
+
+*Catatan: Setelah mengunduh file `.apk` ini ke HP Android Anda, pastikan untuk mengaktifkan izin "Install dari Sumber Tidak Dikenal" pada pengaturan keamanan perangkat Anda agar proses instalasi berjalan lancar.*
