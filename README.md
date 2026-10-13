@@ -28,6 +28,6 @@ Dalam proyek *software development* mandiri ini, saya bertanggung jawab penuh pa
 ## 📲 Tautan Unduhan Langsung (Installer APK)
 Untuk menguji dan melihat langsung fungsionalitas aplikasi di perangkat Android Anda, silakan unduh file installer resmi melalui tombol pintasan di bawah ini:
 
-👉 **[📥 UNDUH APLIKASI (APK) SEKARANG](https://github.com)**
+👉 **[📥 UNDUH APLIKASI (APK) SEKARANG](https://github.com/bitzz-afk/Aplikasi-Katalog-Tempat-Ngopi-di-Diwek/releases/download/v1.0.0/app-debug.apk)**
 
 *Catatan: Setelah mengunduh file `.apk` ini ke HP Android Anda, pastikan untuk mengaktifkan izin "Install dari Sumber Tidak Dikenal" pada pengaturan keamanan perangkat Anda agar proses instalasi berjalan lancar.*
