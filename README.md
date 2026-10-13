@@ -23,4 +23,4 @@ Dalam proyek *software development* mandiri ini, saya bertanggung jawab penuh pa
 - **Halaman Filter Utama:**  
   ![Halaman Filter](./halaman-filter.png)
 - **Halaman Detail Informasi Kafe:**  
-  ![Halaman Detail](./halaman-detail.png)
+  ![Halaman Detail](./halaman-detail.jpeg)
